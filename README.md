@@ -1,9 +1,11 @@
-# courseEthicsAI
+## courseEthicsAI
 
-Präsentationsfolien: 
+# Präsentationsfolien: 
+
+Präsentation - EoAI.pdf
 
 
-Fallstudie: 
+# Fallstudie: 
 
 Zum selbst ausprobieren - https://colab.research.google.com/drive/1WibPNN9v_Fe323GaWQFXCf3rYVJjM-qf?usp=sharing
 
